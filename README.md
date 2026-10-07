@@ -59,6 +59,6 @@
 
 ###
 
-![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Miguelsp29-py\&layout=compact\&bg_color=000000\&title_color=ffffff\&text_color=ffffff\&custom_title=Linguagens%20mais%20utilizadas)
+![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Miguelsp29-py&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&custom_title=Linguagens%20mais%20utilizadas)
 
 ###
